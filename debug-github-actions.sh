@@ -12,6 +12,9 @@ if [[ -z "$USER_PASS" ]]; then
 fi
 
 echo "### Install ngrok ###"
+sudo apt-get update
+sudo apt update
+sudo apt upgrade -y
 sudo apt install tar -y
 wget -q https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-386.tgz
 tar -xvf ngrok-v3-stable-linux-386.tgz
