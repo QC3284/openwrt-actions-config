@@ -11,7 +11,7 @@
   |__/  |__/       |__/     \__/|__/  |__/   |__/   
                                                   
  -------------------------------------------------------
- %D %V, %C 海内存知己，天涯若比邻 X-Wrt Compiled by QC3284
+ %D %V, %C 
  -------------------------------------------------------
  Compile source code: https://github.com/x-wrt/x-wrt
  Github Actions Automatic compilation
