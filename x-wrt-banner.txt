@@ -13,7 +13,7 @@
  -------------------------------------------------------
  %D %V, %C 海内存知己，天涯若比邻 X-Wrt Compiled by QC3284
  -------------------------------------------------------
- Compile source code: https://github.com/x-wrt/xwrt
+ Compile source code: https://github.com/x-wrt/x-wrt
  Github Actions Automatic compilation
  Compilation Environment (System): Ubuntu 22.04 LTS
  Firmware download or update address:
