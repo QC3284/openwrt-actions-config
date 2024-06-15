@@ -13,6 +13,7 @@
  -------------------------------------------------------
  %D %V, %C 
  -------------------------------------------------------
+ By Github@QC3284
  Compile source code: https://github.com/x-wrt/x-wrt
  Github Actions Automatic compilation
  Compilation Environment (System): Ubuntu 22.04 LTS
