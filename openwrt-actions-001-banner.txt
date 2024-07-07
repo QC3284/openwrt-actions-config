@@ -1,0 +1,15 @@
+  _______                     ________        __
+ |       |.-----.-----.-----.|  |  |  |.----.|  |_
+ |   -   ||  _  |  -__|     ||  |  |  ||   _||   _|
+ |_______||   __|_____|__|__||________||__|  |____|
+          |__| W I R E L E S S   F R E E D O M
+ -----------------------------------------------------
+ %D %V, %C
+ -----------------------------------------------------
+ By Github@QC3284
+ Compile source code: https://github.com/openwrt/openwrt
+ or https://git.openwrt.org/openwrt/openwrt
+ Github Actions Automatic compilation
+ Compilation Environment (System): Ubuntu 22.04 LTS
+ Firmware download or update address:
+ https://github.com/QC3284/openwrt-actions/releases
