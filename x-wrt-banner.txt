@@ -18,4 +18,4 @@
  Github Actions Automatic compilation
  Compilation Environment (System): Ubuntu 22.04 LTS
  Firmware download or update address:
- https://github.com/QC3284/x-openwrt-action/releases
+ https://github.com/QC3284/x-openwrt-actions/releases
