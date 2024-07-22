@@ -9,7 +9,7 @@
    /$$/\  $$       | $$$/ \  $$$| $$  \ $$   | $$   
   | $$  \ $$       | $$/   \  $$| $$  | $$   | $$   
   |__/  |__/       |__/     \__/|__/  |__/   |__/   
-                                           XiaoMi CR660X
+                                             phicomm k2p     
  -------------------------------------------------------
  %D %V, %C 
  -------------------------------------------------------
@@ -18,4 +18,4 @@
  Github Actions Automatic compilation
  Compilation Environment (System): Ubuntu 22.04 LTS
  Firmware download or update address:
- https://github.com/QC3284/x-openwrt-actions/releases
+ https://github.com/QC3284/k2p-x-openwrt-actions/releases
