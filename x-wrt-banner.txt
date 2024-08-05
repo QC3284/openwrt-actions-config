@@ -9,13 +9,10 @@
    /$$/\  $$       | $$$/ \  $$$| $$  \ $$   | $$   
   | $$  \ $$       | $$/   \  $$| $$  | $$   | $$   
   |__/  |__/       |__/     \__/|__/  |__/   |__/   
-                                           XiaoMi CR660X
+                                           
  -------------------------------------------------------
  %D %V, %C 
  -------------------------------------------------------
- By Github@QC3284
  Compile source code: https://github.com/x-wrt/x-wrt
  Github Actions Automatic compilation
  Compilation Environment (System): Ubuntu 22.04 LTS
- Firmware download or update address:
- https://github.com/QC3284/x-openwrt-actions/releases
