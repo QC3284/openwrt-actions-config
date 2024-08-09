@@ -16,3 +16,4 @@
  Compile source code: https://github.com/x-wrt/x-wrt
  Github Actions Automatic compilation
  Compilation Environment (System): Ubuntu 22.04 LTS
+ https://github.com/QC3284/x-wrt-actions
