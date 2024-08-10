@@ -1,5 +1,5 @@
 #!/bin/bash
-echo 'Start Install"
+echo Start Install
 echo $(uname -a) 
 sleep 5
 sudo apt-get update
@@ -11,5 +11,5 @@ sudo apt-get update
 sudo apt-get install -y libfuse-dev neofetch 7zip
 sudo apt update
 sudo apt full-upgrade -y
-echo Done，,quit
+echo Done,quit
 sleep 10
