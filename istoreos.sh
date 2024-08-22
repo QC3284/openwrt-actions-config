@@ -1,4 +1,3 @@
-#!/bin/bash
 curl https://github.com/istoreos/istoreos/archive/refs/heads/istoreos-22.03.zip & curl https://github.com/istoreos/istoreos/archive/refs/heads/istoreos-21.02.zip
 curl https://github.com/istoreos/istoreos/archive/refs/heads/istoreos-21.02.2.zip & curl https://github.com/istoreos/istoreos/archive/refs/heads/istoreos-22.03.4.zip
 curl https://github.com/istoreos/istoreos/archive/refs/heads/istoreos-22.03.5.zip & curl https://github.com/istoreos/istoreos/archive/refs/heads/istoreos-22.03.6.zip

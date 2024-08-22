@@ -1,4 +1,3 @@
-#!/bin/bash
 curl https://github.com/openwrt/openwrt/archive/refs/heads/main.zip -o "openwrt-main.zip" & curl https://github.com/openwrt/openwrt/archive/refs/heads/lede-17.01.zip -o "openwrt-lede-17.01.zip"
 curl https://github.com/openwrt/openwrt/archive/refs/heads/master.zip -o "openwrt-master.zip" & curl https://github.com/openwrt/openwrt/archive/refs/heads/openwrt-18.06.zip -o "openwrt-18.06.zip"
 curl https://github.com/openwrt/openwrt/archive/refs/heads/openwrt-19.07.zip -o "openwrt-19.07.zip" & curl https://github.com/openwrt/openwrt/archive/refs/heads/openwrt-21.02.zip -o "openwrt-21.02.zip"
@@ -27,7 +26,7 @@ curl https://github.com/openwrt/mt76/archive/refs/heads/dev.zip -o "openwrt-mt76
 curl https://github.com/openwrt/mt76/archive/refs/heads/next.zip -o "openwrt-mt76-next.zip" & curl https://github.com/openwrt/mt76/archive/refs/heads/openwrt-18.06.zip -o "openwrt-mt76-openwrt-18.06.zip"
 curl https://github.com/openwrt/mt76/archive/refs/heads/openwrt-19.07.zip -o "openwrt-mt76-openwrt-19.07.zip" & curl https://github.com/openwrt/mt76/archive/refs/heads/openwrt-22.03.zip -o "openwrt-mt76-openwrt-22.03.zip"
 curl https://github.com/openwrt/mt76/archive/refs/heads/openwrt-23.05.zip -o "openwrt-my76-openwrt-23.05.zip" & curl https://github.com/openwrt/mt76/archive/refs/heads/pending.zip -o "openwrt-mt76-pending.zip"
-curl https://github.com/openwrt/mt76/archive/refs/heads/perf.zip -o "openwrt-mt76-perf.zip" & curl hhttps://github.com/openwrt/mt76/archive/refs/heads/testing.zip -o "openwrt-mt76-testing.zip"
+curl https://github.com/openwrt/mt76/archive/refs/heads/perf.zip -o "openwrt-mt76-perf.zip" & curl https://github.com/openwrt/mt76/archive/refs/heads/testing.zip -o "openwrt-mt76-testing.zip"
 curl https://github.com/openwrt/mt76/archive/refs/heads/web.zip -o "openwrt-mt76-web.zip" & curl https://github.com/openwrt/mt76/archive/refs/heads/wip.zip -o "openwrt-mt76-wip.zip"
 curl https://github.com/openwrt/telephony/archive/refs/heads/master.zip -o "openwrt-telephony-master.zip" & curl https://github.com/openwrt/telephony/archive/refs/heads/for-14.07.zip -o "openwrt-telephony-for-14.07.zip"
 curl https://github.com/openwrt/telephony/archive/refs/heads/for-15.05.zip -o "openwt-telephony-for-15.05.zip" & curl https://github.com/openwrt/telephony/archive/refs/heads/lede-17.01.zip -o "openwrt-telephony-lede-17.01.zip"
