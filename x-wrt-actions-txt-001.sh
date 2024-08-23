@@ -3,7 +3,7 @@ echo "自动编译 (Automatic compilation)" >> release.txt
 echo "使用源码 (Use source code)：" >> release.txt
 echo "[x-wrt](https://github.com/x-wrt/x-wrt)" >> release.txt
 echo "使用标签 (Use tags)" >> release.txt
-echo "24.04_b202408182159" >> release.txt
+echo "[24.04_b202408182159](https://github.com/x-wrt/x-wrt/releases/tag/24.04_b202408182159)" >> release.txt
 echo "默认账号/密码 (Default account/password)：" >> release.txt
 echo "admin/admin" >> release.txt
 echo "SSH默认账号/密码 (Default SSH account/password)：" >> release.txt
@@ -13,7 +13,7 @@ echo "- ****-factory.bin 通常用于从原厂固件或Uboot中刷入" >> releas
 echo "- ****-sysupgrade.bin 通常用于web升级" >> release.txt
 echo "- ****-initramfs-kernel.bin 具有最少文件系统的Linux内核. 对于首次安装或恢复很有用" >> release.txt
 echo "- sha256sums 是校验文件" >> release.txt
-echo "- PB-Boot适用于Xiaomi CR6608/CR6609/CR6606"  release.txt
+echo "- PB-Boot适用于Xiaomi CR6608/CR6609/CR6606" >> release.txt
 echo "- pb-boot.img 是pb-boot(bootloader)文件" >> release.txt
 echo "- pb-boot.sha256是pb-boot的校验文件" >> release.txt
 echo "- pb-boot.ecc是带OOB数据用于nand编程器的pb-boot(bootloader)" >> release.txt
