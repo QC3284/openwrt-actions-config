@@ -15,3 +15,4 @@ git clone https://github.com/sirpdboy/luci-app-ddns-go.git ddns-go
 git clone https://github.com/QC3284/coremark-openwrt.git utils/coremark
 git clone https://github.com/QC3284/luci-app-adguardhome.git
 git clone https://github.com/muink/luci-app-netspeedtest.git
+sleep 3
