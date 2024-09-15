@@ -5,7 +5,7 @@ wget http://downloads.pangubox.com:6380/lintel/CR660X/pb-boot/pb-boot.sha256 -O 
 wget https://downloads.openwrt.org/releases/23.05.4/targets/ramips/mt7621/openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-initramfs-kernel.bin
 wget https://downloads.openwrt.org/releases/23.05.4/targets/ramips/mt7621/openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-squashfs-firmware.bin
 wget https://downloads.openwrt.org/releases/23.05.4/targets/ramips/mt7621/openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-squashfs-sysupgrade.bin
-7zz a -mx=9 -mmt=8 openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-initramfs-kernel.bin openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-squashfs-firmware.bin openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-squashfs-sysupgrade.bin
+7zz a -mx=9 -mmt=8 "openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606.zip" "openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-initramfs-kernel.bin" "openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-squashfs-firmware.bin" "openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-squashfs-sysupgrade.bin"
 sleep 3
 sudo rm -rf openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-squashfs-firmware.bin
 sudo rm -rf openwrt-23.05.4-ramips-mt7621-xiaomi_mi-router-cr6606-squashfs-sysupgrade.bin
