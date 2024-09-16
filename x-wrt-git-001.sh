@@ -14,13 +14,4 @@ git clone https://github.com/sirpdboy/luci-app-eqosplus.git
 git clone https://github.com/sirpdboy/luci-app-ddns-go.git ddns-go
 git clone https://github.com/QC3284/coremark-openwrt.git utils/coremark
 git clone https://github.com/QC3284/luci-app-adguardhome.git
-sleep 2
-wget https://github.com/vernesong/OpenClash/archive/refs/heads/master.zip
-unzip master.zip
-cp -r "OpenClash-master/luci-app-openclash" "luci-app-openclash"
-pushd luci-app-openclash/tools/po2lmo
-make && sudo make install
-popd
-sudo rm -rf master.zip
-sudo rm -rf "OpenClash-master"
 sleep 3
