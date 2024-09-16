@@ -18,6 +18,9 @@ sleep 2
 wget https://github.com/vernesong/OpenClash/archive/refs/heads/master.zip
 unzip master.zip
 cp -r "OpenClash-master/luci-app-openclash" "luci-app-openclash"
+pushd luci-app-openclash/tools/po2lmo
+make && sudo make install
+popd
 sudo rm -rf master.zip
 sudo rm -rf "OpenClash-master"
 sleep 3
