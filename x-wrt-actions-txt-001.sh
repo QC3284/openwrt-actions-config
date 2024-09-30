@@ -3,7 +3,7 @@ echo "自动编译 (Automatic compilation)" >> release.txt
 echo "使用源码 (Use source code)：" >> release.txt
 echo "[x-wrt](https://github.com/x-wrt/x-wrt)" >> release.txt
 echo "使用标签 (Use tags)" >> release.txt
-echo "[24.04_b202409280026](https://github.com/x-wrt/x-wrt/releases/tag/24.04_b202409070905)" >> release.txt
+echo "[24.04_b202409301623](https://github.com/x-wrt/x-wrt/releases/tag/24.04_b202409070905)" >> release.txt
 echo "默认账号/密码 (Default account/password)：" >> release.txt
 echo "admin/admin" >> release.txt
 echo "SSH默认账号/密码 (Default SSH account/password)：" >> release.txt
