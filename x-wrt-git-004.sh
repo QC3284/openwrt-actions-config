@@ -1,4 +1,8 @@
 #!/bin/bash
+#本仓库及文件只在Github发布
+#作者：QC3284@github.com(https://github.com/QC3284)
+#本仓库地址：https://github.com/QC3284/openwrt-actions-config
+#最后更新时间：2024.10.03
 wget http://downloads.pangubox.com:6380/lintel/CR660X/pb-boot/pb-boot.ecc -O pb-boot.ecc || wget https://raw.githubusercontent.com/QC3284/openwrt-actions-config/main/pb-boot-cr660x-back/pb-boot.ecc -O pb-boot.ecc
 wget http://downloads.pangubox.com:6380/lintel/CR660X/pb-boot/pb-boot.img -O pb-boot.img || wget https://raw.githubusercontent.com/QC3284/openwrt-actions-config/main/pb-boot-cr660x-back/pb-boot.img -O pb-boot.img
 wget http://downloads.pangubox.com:6380/lintel/CR660X/pb-boot/pb-boot.sha256 -O pb-boot.sha256 || wget https://raw.githubusercontent.com/QC3284/openwrt-actions-config/main/pb-boot-cr660x-back/pb-boot.sha256 -O pb-boot.sha256
