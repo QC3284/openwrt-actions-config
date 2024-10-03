@@ -6,7 +6,6 @@ git clone https://github.com/sirpdboy/luci-theme-opentopd.git
 git clone https://github.com/derisamedia/luci-theme-alpha.git
 git clone https://github.com/derisamedia/luci-app-alpha-config.git
 git clone https://github.com/f8q8/luci-app-filetransfer.git
-git clone https://github.com/kongfl888/luci-app-timedreboot.git
 git clone https://github.com/sirpdboy/luci-app-netdata.git
 git clone https://github.com/zzsj0928/luci-app-pushbot.git
 git clone https://github.com/animegasan/luci-app-wolplus.git
