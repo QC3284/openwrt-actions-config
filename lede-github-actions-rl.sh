@@ -5,4 +5,4 @@
 #最后更新时间：2024.10.03
 echo "自动编译 (Automatic compilation)" >> release.txt
 echo "使用源码 (Use source code)：" >> release.txt
-echo "[x-wrt](https://github.com/coolsnowwolf/lede)" >> release.txt
+echo "[lede](https://github.com/coolsnowwolf/lede)" >> release.txt
