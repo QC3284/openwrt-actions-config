@@ -2,12 +2,12 @@
 #本仓库及文件只在Github发布
 #作者：QC3284@github.com(https://github.com/QC3284)
 #本仓库地址：https://github.com/QC3284/openwrt-actions-config
-#最后更新时间：2024.10.06
+#最后更新时间：2024.10.012
 echo "自动编译 (Automatic compilation)" >> release.txt
 echo "使用源码 (Use source code)：" >> release.txt
 echo "[x-wrt](https://github.com/x-wrt/x-wrt)" >> release.txt
 echo "使用标签 (Use tags)" >> release.txt
-echo "[24.04_b202410041009](https://github.com/x-wrt/x-wrt/releases/tag/24.04_b202410041009)" >> release.txt
+echo "[24.04_b202410120338](https://github.com/x-wrt/x-wrt/releases/tag/24.04_b202410120338)" >> release.txt
 echo "默认账号/密码 (Default account/password)：" >> release.txt
 echo "admin/admin" >> release.txt
 echo "SSH默认账号/密码 (Default SSH account/password)：" >> release.txt
