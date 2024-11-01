@@ -3,5 +3,6 @@
 #作者：QC3284@github.com(https://github.com/QC3284)
 #本仓库地址：https://github.com/QC3284/openwrt-actions-config
 #最后更新时间：2024.10.19
+sed -i '1i src-git kiddn9 https://github.com/kiddin9/kwrt-packages' feeds.conf.default
 sed -i 's/192.168.1.1/192.168.5.1/g' package/base-files/files/bin/config_generate
 sleep 3
