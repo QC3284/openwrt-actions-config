@@ -8,4 +8,7 @@ sed -i '2i src-git small https://github.com/kenzok8/small' feeds.conf.default
 sed -i 's/192.168.1.1/192.168.5.1/g' package/base-files/files/bin/config_generate
 sleep 2
 curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh --no-sfe
+git clone https://github.com/derisamedia/luci-app-alpha-config package/luci-app-alpha-config
+git clone https://github.com/sirpdboy/luci-app-netdata package/luci-app-netdata
+git clone https://github.com/sirpdboy/luci-app-advancedplus package/luci-app-advancedplus
 sleep 3
