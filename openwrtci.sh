@@ -7,6 +7,6 @@ sudo rm -rf feeds/luci/applications/luci-app-mosdns
 sudo rm -rf feeds/packages/net/{alist,adguardhome,mosdns,xray*,v2ray*,v2ray*,sing*,smartdns}
 sudo rm -rf feeds/packages/utils/v2dat
 sudo rm -rf feeds/packages/lang/golang
-sleep2
+sleep 2
 git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
 sleep 3
