@@ -8,9 +8,10 @@
  %D %V, %C
  -----------------------------------------------------
  By Github@QC3284
+ v23.05.4
  Compile source code:
  https://github.com/immortalwrt/immortalwrt
  Github Actions Automatic compilation
  Compilation Environment (System): Ubuntu 22.04 LTS
  Firmware download or update address:
- https://github.com/QC3284/immortalwrt-actions/releases
+ https://github.com/QC3284/openwrt-actions/releases
