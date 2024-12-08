@@ -6,7 +6,7 @@
 echo "自动编译 (Automatic compilation)" >> release.txt
 echo "使用源码 (Use source code)：" >> release.txt
 echo "[immortalwrt](https://github.com/immortalwrt/immortalwrt)" >> release.txt
-echo "使用分支 (Use branch)" >> release.txt
+echo "使用分支 (Use branch)：" >> release.txt
 echo "23.05.4" >> release.txt
 echo "默认账号 (Default account)：" >> release.txt
 echo "root" >> release.txt
