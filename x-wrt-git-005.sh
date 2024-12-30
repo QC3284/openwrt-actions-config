@@ -13,4 +13,4 @@ cp -r opldf/luci-app-vlmcsd package/
 cp -r opldf/vlmcsd feeds/packages/net/
 sudo rm -rf opldf
 echo "Done"
-slepp 3
+sleep 3
