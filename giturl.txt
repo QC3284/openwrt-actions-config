@@ -3,10 +3,10 @@ https://github.com/jerrykuku/luci-theme-argon.git
 https://github.com/jerrykuku/luci-app-argon-config.git
 https://github.com/derisamedia/luci-theme-alpha.git
 https://github.com/derisamedia/luci-app-alpha-config.git
-https://github.com/f8q8/luci-app-filetransfer.git
 https://github.com/sirpdboy/luci-app-netdata.git
 https://github.com/zzsj0928/luci-app-pushbot.git
 https://github.com/animegasan/luci-app-wolplus.git
 https://github.com/sirpdboy/luci-app-eqosplus.git
 https://github.com/sirpdboy/luci-app-lucky.git lucky
+https://github.com/f8q8/luci-app-filetransfer.git
 https://github.com/QC3284/luci-app-opkg-autoupdate.git
