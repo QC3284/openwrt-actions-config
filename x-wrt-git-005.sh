@@ -5,12 +5,9 @@
 #最后更新时间：2024.12.31
 sudo rm -rf feeds/luci/applications/luci-app-adguardhome
 sudo rm -rf feeds/luci/applications/luci-app-ramfree
-sudo rm -rf feeds/luci/applications/luci-app-vlmcsd
 sleep 2
 cp -r opldf/luci-app-adguardhome package/
 cp -r opldf/luci-app-ramfree package/
-cp -r opldf/luci-app-vlmcsd package/
-cp -r opldf/vlmcsd feeds/packages/net/
 sudo rm -rf opldf
 echo "Done"
 sleep 3
