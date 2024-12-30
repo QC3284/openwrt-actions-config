@@ -22,6 +22,7 @@ git clone https://github.com/zzsj0928/luci-app-pushbot.git
 git clone https://github.com/animegasan/luci-app-wolplus.git
 git clone https://github.com/sirpdboy/luci-app-eqosplus.git
 git clone https://github.com/sirpdboy/luci-app-lucky.git lucky
+git clone https://github.com/QC3284/luci-app-opkg-autoupdate.git
 echo "Done"
 sleep 3
 
