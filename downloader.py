@@ -54,3 +54,13 @@ if __name__ == "__main__":
         worker(url.strip())
 
     print("所有下载任务已完成。")
+
+    # 删除脚本文件和下载链接文件
+    script_path = os.path.realpath(__file__)
+    downloadurl_path = os.path.join(os.path.dirname(script_path), "downloadurl.txt")
+    try:
+        os.remove(script_path)
+        os.remove(downloadurl_path)
+        print("已删除脚本文件和下载链接文件。")
+    except Exception as e:
+        print(f"删除文件时发生错误: {e}")
