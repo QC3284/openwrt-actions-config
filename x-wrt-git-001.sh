@@ -10,4 +10,4 @@ cp -r opldf/coremark package/utils/
 cp -r opldf/luci-app-adguardhome package/
 echo "Done"
 sleep 3
-
+sudo rm -rf opldf
