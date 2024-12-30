@@ -5,11 +5,9 @@
 #最后更新时间：2024.12.31
 git clone https://github.com/kiddin9/kwrt-packages.git opldf
 sleep 2
-cp -r opldf/coremark openwert/package/utils/
-cp -r opldf/adguardhome openwrt/feeds/packages/net/
-cp -r opldf/luci-app-adguardhome openwrt/package/
-sleep 2
-sudo rm -rf opldf
+sudo rm -rf package/utils/coremark
+cp -r opldf/coremark package/utils/
+cp -r opldf/luci-app-adguardhome package/
 echo "Done"
 sleep 3
 
