@@ -20,6 +20,8 @@ git clone https://github.com/DustReliant/luci-app-filetransfer.git package/luci-
 git clone https://github.com/sbwml/luci-app-filemanager.git package/luci-app-filemanager
 git clone https://github.com/sirpdboy/luci-app-netdata.git package/luci-app-netdata
 git clone https://github.com/sirpdboy/luci-app-advancedplus.git package/luci-app-advancedplus
+git clone -b luci2 https://github.com/kuoruan/luci-app-v2ray.git package/luci-app-v2ray
+git clone https://github.com/kuoruan/openwrt-v2ray.git package/v2ray-core
 echo "src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main" >> "feeds.conf.default"
-echo "src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main" >> "feeds.conf.default"
+echo "src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main" >> "feeds.conf.default"
 sleep 3
