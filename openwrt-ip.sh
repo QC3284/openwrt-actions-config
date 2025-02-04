@@ -6,7 +6,7 @@
 sed -i 's/192.168.1.1/10.0.0.1/g' package/base-files/files/bin/config_generate
 sleep 2
 curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh --no-sfe
-git clone https://github.com/vernesong/OpenClash.git clash
+git clone --branch master --single-branch https://github.com/vernesong/OpenClash.git clash
 cp -r clash/luci-app-openclash package/luci-app-openclash
 sudo rm -rf luci-app-openclash
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
