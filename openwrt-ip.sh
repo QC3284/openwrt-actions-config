@@ -8,6 +8,7 @@ sleep 2
 curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh --no-sfe
 git clone https://github.com/vernesong/OpenClash.git clash
 cp -r clash/luci-app-openclash package/luci-app-openclash
+sudo rm -rf luci-app-openclash
 git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-app-argon-config
 git clone https://github.com/kiddin9/luci-theme-edge.git package/luci-theme-edge
