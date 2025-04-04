@@ -17,4 +17,4 @@
  Github Actions Automatic compilation
  Compilation Environment (System): Ubuntu 22.04 LTS
  Warehouse Address：
- https://github.com/QC3284/x-wrt-actions
+ https://github.com/QC3284/openwrt-actions
