@@ -3,7 +3,7 @@
 #作者：QC3284@github.com(https://github.com/QC3284)
 #本仓库地址：https://github.com/QC3284/openwrt-actions-config
 #最后更新时间：2025.5.2
-sed -i 's/192.168.1.1/192.168.5.1/g' package/base-files/files/bin/config_generat
+sed -i 's/192.168.1.1/192.168.5.1/g' package/base-files/files/bin/config_generate
 sleep 2
 curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh --no-sfe
 git clone --branch master --single-branch https://github.com/vernesong/OpenClash.git clash
