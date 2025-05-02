@@ -7,8 +7,7 @@
  %D %V, %C
  -----------------------------------------------------
  By Github@QC3284
- Compile source code: https://github.com/openwrt/openwrt
- or https://git.openwrt.org/openwrt/openwrt
+ Source code: https://git.openwrt.org/openwrt/openwrt
  Github Actions Automatic compilation
  Compilation Environment (System): Ubuntu 22.04 LTS
  Firmware download or update address:
